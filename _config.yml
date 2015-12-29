@@ -1,0 +1,28 @@
+name: leadership
+favicon: null
+layout_spectrum: 0.3944892550352961
+typography_spectrum: 0.7117130935657769
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.012123547028750181
+  lightness: 0.5845926590263844
+  saturation: 0.023987899534404278
+  rhythmicContrast: 0.4741011196747422
+purpose: []
